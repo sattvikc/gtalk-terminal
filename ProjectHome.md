@@ -1,0 +1,1 @@
+Provides an alternative way to connect to remote shell without ssh client. Wrapper around ssh and connects the wrapper and the gtalk client. Commands can be executed on the remote shell by chatting with the server
